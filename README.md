@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Lucas 👋
 
+I'm a Software Developer and Data Analyst based in Brazil. 👨🏻‍💻
+
+I'm currently learning more about Node and Frameworks such as Electron and Expo.
+
+Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/tpaivalucas/).
+
+Let's code! 🚀
 <!--
 **Lucas-Paiva/Lucas-Paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
