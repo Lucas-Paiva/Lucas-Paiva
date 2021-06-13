@@ -3,6 +3,7 @@
 I'm a Software Developer and Data Analyst based in Brazil. 👨🏻‍💻
 
 I'm currently working on some Python projects and learning about Machine Learning and Neural Links.
+
 Also, I'm interested in collaborate on open source projects.
 
 Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/tpaivalucas/).
