@@ -2,7 +2,7 @@
 
 I'm a Software Developer and Data Analyst based in Brazil. 👨🏻‍💻
 
-I'm currently working on some Python projects and learning about Machine Learning and Neural Links.
+I'm currently working on some Python projects and learning about Machine Learning and Computer Vision.
 
 Also, I'm interested in collaborate on open source projects.
 
